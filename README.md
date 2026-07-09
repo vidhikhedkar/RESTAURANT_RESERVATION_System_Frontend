@@ -1,8 +1,16 @@
-# React + Vite
+Restaurant Reservation System – Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive restaurant reservation frontend built with React.js, featuring an engaging landing page, dynamic menu display, smooth scrolling navigation, and an online reservation form integrated with REST APIs. The application emphasizes reusable React components, responsive UI design, and seamless user experience across desktop and mobile devices.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Responsive landing page
+Dynamic menu and team sections
+Online reservation form
+React Router navigation
+Smooth scrolling navigation
+Toast notifications
+Mobile-friendly design
+REST API integration
+
+Tech Stack: React.js • JavaScript • React Router • Axios • React Scroll • React Hot Toast • HTML5 • CSS3
