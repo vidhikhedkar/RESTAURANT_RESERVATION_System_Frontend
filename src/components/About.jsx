@@ -13,13 +13,7 @@ const About = () => {
               <p>The only thing we're serious about is food.</p>
             </div>
             <p className="mid">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Provident possimus optio adipisci dolores impedit illum iusto
-              perferendis, laudantium quod accusamus consequuntur consectetur,
-              tempore nulla error iure reiciendis dolorem assumenda.
-              Necessitatibus fugit asperiores totam rem esse exercitationem
-              iusto ipsum qui dolore ex, accusantium repellat mollitia
-              repellendus.
+              We believe that great food brings people together, and our mission is to make that connection effortless. By pairing fresh, locally sourced ingredients with an intuitive digital ordering experience, we ensure that your time spent with us is focused entirely on the joy of eating. No delays, no guesswork—just incredible flavors crafted with passion and served with precision.
             </p>
             <Link to={"/"}>
               Explore Menu{" "}
